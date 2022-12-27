@@ -89,5 +89,7 @@
 | `echo f0VMR...SNIO...InmDwU \| base64 -d > shell` | Convert a file from `base64` back to its orig |
 | `md5sum shell` | Check the file's `md5sum` to ensure it converted correctly |
 | 
-| **Useful Resources** |
-| [`Payloads All The Things`](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md) | Reverse Shell Cheat Sheet |
+## Useful Resources
+| **Link** | **Description** |
+|---------|------------|
+| [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md) | Reverse Shell Cheat Sheet |
