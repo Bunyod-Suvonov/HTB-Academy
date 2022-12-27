@@ -59,5 +59,6 @@
 
 
 ## Resources
-
-| [`Nmap Port Scanning Techniques`](https://nmap.org/book/man-port-scanning-techniques.html) | Nmap Port Scanning Techniques |
+| **Link** | **Description** |
+|---------|---------------|
+| [Nmap Port Scanning Techniques](https://nmap.org/book/man-port-scanning-techniques.html) | Nmap Port Scanning Techniques |
