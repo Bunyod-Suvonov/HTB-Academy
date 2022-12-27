@@ -27,7 +27,7 @@
 Useful resources
 |Link|Description|
 |----|-----------|
-|[crt.sh](crt.sh)|Certificate transparency logs to find more subdomains|
+|[crt.sh](https://crt.sh)|Certificate transparency logs to find more subdomains|
 
 |**Command**|**Description**|
 |-|-|
